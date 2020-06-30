@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions count="4">
+    <transaction id="0" from="1" to="2" amount="111" />
+    <transaction id="1" from="3" to="2" amount="222" />
+    <transaction id="2" from="3" to="2" amount="333" />
+    <transaction id="3" from="2" to="3" amount="444" />
+</transactions>
